@@ -1,4 +1,18 @@
-<h1>Run Secure Environment for 24 Hours and Capture Analytics</h1>
+<h1>Run secure Environment for 24 Hours and Capture Analytics</h1>
+
+- <b>This tutorial outlines the configuration of capturing our secure environment map analytics after hardening and implementing security controls</b>
+
+<h2>Environments and Technologies Used</h2>
+
+- <b>Microsoft Azure</b> 
+- <b>Microsoft Sentinel</b>
+- <b>Log Analytics Workspace</b>
+
+<h2>Operating Systems</h2>
+
+- <b>Windows 10</b>
+
+<h2>Configuration Steps</h2>
 
 - <b>All map queries actually returned no results due to no instances of malicious activity for the 24-hour period after hardening</b>
 
